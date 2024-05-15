@@ -1,0 +1,56 @@
+{
+   "1712060405788434800": {
+      "full_name": "Odil Ahmedov",
+      "password": "b'$2b$04$IZRKdPBZ2RzVi/VcJtB2E.HNSaqLPmeJECSEguPP9wP.fD8kuBwKa'",
+      "phone_number": "7667",
+      "email": "odil@gmail.com",
+      "language": "en",
+      "user_id": "1712060405788434800",
+      "created_at": "2024-04-02 17:20:16.464090"
+   },
+   "1712063378280646600": {
+      "full_name": "Lionel Messi",
+      "password": "b'$2b$04$ngZD2uB76WLft5HXH4vwDOLSidV1zzkbNO2YntqHRm3.PCUGoMP9C'",
+      "phone_number": "10001",
+      "email": "messi@gmail.com",
+      "language": "en",
+      "user_id": "1712063378280646600",
+      "created_at": "2024-04-02 18:09:49.486392"
+   },
+   "1712063439426706800": {
+      "full_name": "Cristiano Ronaldo",
+      "password": "b'$2b$04$g5ugY.TMYDWDqvkidAJRmOk.MAWPlZ2CJfUCBvrF/b8hlPiPUH5be'",
+      "phone_number": "77777",
+      "email": "ronaldo@gmail.com",
+      "language": "en",
+      "user_id": "1712063439426706800",
+      "created_at": "2024-04-02 18:10:51.106022"
+   },
+   "1712063505402333100": {
+      "full_name": "Gareth Bale",
+      "password": "b'$2b$04$/yRigSR//eY2McBOj7IhxeR0CBT9yjUyadBBwB9WFah5bScT6zdla'",
+      "phone_number": "99999",
+      "email": "bale@gmail.com",
+      "language": "en",
+      "user_id": "1712063505402333100",
+      "created_at": "2024-04-02 18:12:00.001672"
+   },
+   "1712063815661338800": {
+      "full_name": "Eden Hazard",
+      "password": "b'$2b$04$IEIk8dR9L2W0Im7xxC/fTesBO4rAZbi9ncCLFLKNABpzRCcRgQfYi'",
+      "phone_number": "66666",
+      "email": "hazard@gmail.com",
+      "language": "en",
+      "user_id": "1712063815661338800",
+      "created_at": "2024-04-02 18:17:05.230859"
+   },
+   "1712075096412872900": {
+      "full_name": "Luka Modrich",
+      "password": "b'$2b$04$ORm0uJAoEM8AcoDrxz2U/ef9q4gqlHVfF5GYyls96NSUnmW4zbYyq'",
+      "phone_number": "01010",
+      "email": "modrich@gmail.com",
+      "language": "en",
+      "user_id": "1712075096412872900",
+      "created_at": "2024-04-02 21:25:10.986725"
+   }
+}
